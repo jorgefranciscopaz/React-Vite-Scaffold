@@ -1,0 +1,9 @@
+heladeriaUI/package-lock.json
+heladeriaUI/.env
+heladeriaUI/package.json
+
+
+server/node_modules/
+server/package.json
+server/.env 
+server/package-lock.json
